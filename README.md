@@ -1,2 +1,2 @@
-#Website 
-A sinple HTML and CSS website protraying my unique Cultural Hetritage through food
+# Website 
+A simple HTML and CSS website portraying my unique Cultural Heritage through food
